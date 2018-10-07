@@ -1,0 +1,6 @@
+src/_build/
+src/main.ml
+src/Makefile
+src/.mirage.config
+src/myocamlbuild.ml
+src/*.opam
