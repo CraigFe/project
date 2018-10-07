@@ -1,0 +1,4 @@
+language: c
+install: wget https://raw.githubusercontent.com/CraigFe/project/master/.travis-build.sh
+script: bash -ex .travis-build.sh
+
